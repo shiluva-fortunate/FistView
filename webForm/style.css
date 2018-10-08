@@ -1,6 +1,5 @@
 body{
 	font-family: sans-serif;
-
 }
 
 #header{
@@ -12,8 +11,8 @@ body{
 .bkg{
 	background: url(pic8.jpg) center center fixed;
 	background-size: cover;
-	/*width:100vw;
-	height: 100vh;*/
+	width:100vw;
+	height: 100vh;
  }
 
  .form-group, .checkbox{
