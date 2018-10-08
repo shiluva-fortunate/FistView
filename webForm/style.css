@@ -1,0 +1,42 @@
+body{
+	font-family: sans-serif;
+
+}
+
+#header{
+	color: #eeb4b4;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+.bkg{
+	background: url(pic8.jpg) center center fixed;
+	background-size: cover;
+	width:100vw;
+	height: 100vh;
+ }
+
+ .form-group, .checkbox{
+ 	color: #eeb4b4;
+ }
+
+ .form-control{
+ 	color: #eeb4b4;
+ 	border: none;
+ 	outline: none;
+ 	border-bottom: 1.5px solid black;
+ 	background: transparent;
+ }
+
+ .form-container{
+ 	padding: 30px 40px;
+ 	-webkit-box-shadow: 0px 2px 6px 7px rgba(227,154,227,1);
+ 	-moz-box-shadow: 0px 2px 6px 7px rgba(227,154,227,1);
+ 	box-shadow: 0px 1px 4px 5px rgba(227,154,227,1);
+
+}
+
+button{
+	color:#eeb4b4;
+	background-color: #45063f;
+}
